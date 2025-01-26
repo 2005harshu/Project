@@ -1,0 +1,35 @@
+.cent{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0 4px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    color: white;
+    background: burlywood;
+}
+.flex{
+    justify-content: center;
+    align-items: center;
+}
+.cont_2{
+    margin: 8px;
+}
+.cont_2 input{
+    width: 299px;
+    font-size: 20px;
+    padding:9px 0px;
+    margin:0;
+    color: black;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.inner{
+    border: 2px solid black;
+    background: palevioletred;
+}
